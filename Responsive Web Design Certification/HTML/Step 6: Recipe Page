@@ -1,0 +1,29 @@
+<!Doctype html>
+<html lang="en">
+  <head>
+    <title> BLT Recipe</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>BLT Sandwich Recipe</h1>
+    <p>The BLT Sandwich is one of the most iconic sandwiches in american food culture. The sandwich features a lightly toasted bread, crispy bacon and freshly chopped pieces of firm lettuce. This sandwich is appropriate in settings from a quick grab and go lunch to a dinner settings. It is versitle, tasty and meets the needs of anyone looking for a delicious bite to eat! </p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Fresh White Bread</li>
+      <li>Butter/Vegetable Oil</li>
+      <li>Bacon</li>
+      <li>Lettuce</li>
+      <li>Tomato</li>
+      <li>Mayonaisse or Garlic Aoili (Either are a fine choice)</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Heat a pan on medium temperature with butter until melted</li>
+      <li>Toast a slice of bread in the butter until a the color is a light crispy brown.</li>
+      <li>In a seperate pot, cook bacon for 10 minutes roughly until crunchy. Drain oil off bacon and set asside.</li>
+      <li>Slice roma tomatoes in 1/8 inch thick slices. Two per sandwich is sufficient.</li>
+      <li>Assemble sandwich, add a thin layer of garlic aoili to both pieced of toasted bread, add tomato, bacon and lettuce and then slice the sandwich in half and serve.</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="food recipe" 
+  </body>
+  </html>
